@@ -1,0 +1,16 @@
+
+1- Download a tar.gz file 
+wget url-tar.gz
+
+2- extract the tar.gz file 
+tar xvzf filename-tar.gz
+
+3- move folder 
+mv folder_name /desination_path
+
+4- remove folder with files 
+rm -rf folder_name
+
+5- remove file 
+rm file_name 
+
